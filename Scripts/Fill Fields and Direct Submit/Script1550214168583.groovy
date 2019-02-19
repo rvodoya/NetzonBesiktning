@@ -21,9 +21,9 @@ WebUI.navigateToUrl('https://staging.besiktningsprotokoll.netzon.se/#/checklist'
 
 WebUI.setText(findTestObject('Page_Skadefrebyggande besiktningspr/input_Namn_ng-untouched ng-val (1)'), 'John Tra')
 
-WebUI.setText(findTestObject('Postut Textbox'), 'Volt a ')
+WebUI.setText(findTestObject('Besikning/Postut Textbox'), 'Volt a ')
 
-WebUI.setText(findTestObject('Postadress textbox'), '131')
+WebUI.setText(findTestObject('Besikning/Postadress textbox'), '131')
 
 WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/i_keyboard_arrow_down'))
 
@@ -31,35 +31,35 @@ WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/span_Pontus Asp'
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Besik Arrow down'))
+WebUI.click(findTestObject('Besikning/Besik Arrow down'))
 
 WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_16'))
 
-WebUI.setText(findTestObject('Object Repository/Bygg textbox'), 'Lorem ipsum dolor sit amet')
+WebUI.setText(findTestObject('Besikning/Bygg textbox'), 'Lorem ipsum dolor sit amet')
 
-WebUI.setText(findTestObject('Forsark Textbox'), 'Lorem ipsum dolor sit amet')
+WebUI.setText(findTestObject('Besikning/Forsark Textbox'), 'Lorem ipsum dolor sit amet')
 
-WebUI.setText(findTestObject('Object Repository/Personnummer textbox'), '950721-0285')
+WebUI.setText(findTestObject('Besikning/Personnummer textbox'), '950721-0285')
 
-WebUI.setText(findTestObject('Besikning address'), 'Lorem ipsum dolor sit amet')
+WebUI.setText(findTestObject('Besikning/Besikning address'), 'Lorem ipsum dolor sit amet')
 
-WebUI.setText(findTestObject('Telefon textbox'), '0290-6894181')
+WebUI.setText(findTestObject('Besikning/Telefon textbox'), '0290-6894181')
 
-WebUI.setText(findTestObject('E-post textbox'), 'carina.aman@dodgit.com')
+WebUI.setText(findTestObject('Besikning/E-post textbox'), 'carina.aman@dodgit.com')
 
-WebUI.click(findTestObject('Beg Datum textbox'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Besikning/Beg Datum textbox'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_16'))
 
-WebUI.click(findTestObject('Nasta Button'))
+WebUI.click(findTestObject('Besikning/Nasta Button'))
 
-WebUI.click(findTestObject('Skicka in'))
+WebUI.click(findTestObject('Besikning/Skicka in'))
 
-WebUI.setText(findTestObject('Ort och datum'), 'Lorem ipsum dolor sit amet')
+WebUI.setText(findTestObject('Besikning/Ort och datum'), 'Lorem ipsum dolor sit amet')
 
-WebUI.setText(findTestObject('Namn Textbox'), 'Lorem ipsum dolor sit amet')
+WebUI.setText(findTestObject('Besikning/Namn Textbox'), 'Lorem ipsum dolor sit amet')
 
-WebUI.click(findTestObject('Skicka In Popup'))
+WebUI.click(findTestObject('Besikning/Skicka In Popup'))
 
 WebUI.closeBrowser()
 

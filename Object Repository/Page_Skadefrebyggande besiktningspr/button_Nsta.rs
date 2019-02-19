@@ -34,10 +34,40 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[@class=&quot;ng-tns-c0-0&quot;]/div[@class=&quot;body-container&quot;]/app-checklist[@class=&quot;ng-tns-c5-2 ng-star-inserted&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;list-pages-container&quot;]/div[@class=&quot;list-page-wrapper&quot;]/app-personal-info[@class=&quot;ng-tns-c5-2 ng-tns-c6-3&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;info-actions&quot;]/div[@class=&quot;info-actions-wrapper&quot;]/div[@class=&quot;info-action&quot;]/button[@class=&quot;button-next&quot;]</value>
+      <value>/html[1]/body[1]/app-root[@class=&quot;ng-tns-c0-0&quot;]/div[@class=&quot;body-container&quot;]/app-checklist[@class=&quot;ng-tns-c5-2 ng-star-inserted&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;list-pages-container&quot;]/div[@class=&quot;list-page-wrapper&quot;]/app-kitchen[@class=&quot;ng-tns-c5-2 ng-tns-c7-4&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;info-actions&quot;]/div[@class=&quot;info-actions-wrapper&quot;]/div[@class=&quot;info-action&quot;]/button[@class=&quot;button-next&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klar'])[2]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Avbryt'])[2]/following::button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Våtrum 1'])[2]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tätskikt golv'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//app-kitchen/div/div[3]/div/div[2]/button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Klar'])[1]/following::button[1]</value>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_keyboard_arrow_down</name>
+   <name>i_keyboard_arrow_down (2) (1) (1) (1) (1)</name>
    <tag></tag>
-   <elementGuidId>aef1043d-4750-4a12-9698-8cd3c30de90a</elementGuidId>
+   <elementGuidId>38dcf54f-4599-4420-95a6-f1ea81777bf5</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -34,40 +34,10 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[@class=&quot;ng-tns-c0-0&quot;]/div[@class=&quot;body-container&quot;]/app-checklist[@class=&quot;ng-tns-c5-2 ng-star-inserted&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;list-pages-container&quot;]/div[@class=&quot;list-page-wrapper&quot;]/app-kitchen[@class=&quot;ng-tns-c5-2 ng-tns-c7-4&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;info-wrapper&quot;]/div[1]/div[@class=&quot;detail-wrapper&quot;]/div[@class=&quot;item-wrapper&quot;]/div[@class=&quot;item-value&quot;]/div[@class=&quot;input-container&quot;]/app-select[@class=&quot;flex ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;main-container clickable&quot;]/div[@class=&quot;main-wrapper flex-cross-center no-border&quot;]/div[@class=&quot;icon-wrapper flex-center&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <value>/html[1]/body[1]/app-root[@class=&quot;ng-tns-c0-0&quot;]/div[@class=&quot;body-container&quot;]/app-checklist[@class=&quot;ng-tns-c5-2 ng-star-inserted&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;list-pages-container&quot;]/div[@class=&quot;list-page-wrapper&quot;]/app-personal-info[@class=&quot;ng-tns-c5-2 ng-tns-c6-3&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;info-wrapper&quot;]/div[1]/div[@class=&quot;detail-wrapper&quot;]/div[@class=&quot;item-wrapper&quot;]/div[@class=&quot;item-value&quot;]/app-select[@class=&quot;flex ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;main-container clickable&quot;]/div[@class=&quot;main-wrapper flex-cross-center no-border&quot;]/div[@class=&quot;icon-wrapper flex-center&quot;]/i[@class=&quot;material-icons&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='--- Välj ---'])[2]/following::i[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kyl &amp; Frys - vattentätt underlag'])[1]/following::i[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rörledningar och kopplingar'])[1]/preceding::i[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='--- Välj ---'])[3]/preceding::i[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <value>//div[2]/div[2]/div/app-select/div/div/div[2]/i</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='--- Välj ---'])[1]/following::i[1]</value>
