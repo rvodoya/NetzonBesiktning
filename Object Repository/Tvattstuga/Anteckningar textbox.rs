@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Nasta button2</name>
+   <name>Anteckningar textbox</name>
    <tag></tag>
-   <elementGuidId>054ad90d-344d-46a3-8745-2a7ab2410d8e</elementGuidId>
+   <elementGuidId>1223ee4a-a30d-4164-9528-b123dbd2282e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//app-kitchen/div/div[3]/div/div[2]/button[contains(@class,'button-next')]</value>
+         <value>//app-laundry/div/div[2]/div/div[contains(@class,'detail-wrapper')]/div[5]/div[contains(@class,'other-notes-input')]/textarea</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

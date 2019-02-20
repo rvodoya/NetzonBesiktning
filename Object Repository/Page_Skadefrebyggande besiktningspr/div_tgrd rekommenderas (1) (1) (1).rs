@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Okulrt besiktigat</name>
+   <name>div_tgrd rekommenderas (1) (1) (1)</name>
    <tag></tag>
-   <elementGuidId>42bb56ec-7c2c-42ae-9d2d-ea5c5c568492</elementGuidId>
+   <elementGuidId>8ca8bf4f-ab85-4cda-abd0-7427c4955dc3</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -26,7 +26,7 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                            Okulärt besiktigat
+                            Åtgärd rekommenderas
                         </value>
    </webElementProperties>
    <webElementProperties>
@@ -40,30 +40,24 @@
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anmärkning*1'])[2]/following::div[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Okulärt besiktigat'])[1]/following::div[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingen anmärkning'])[1]/following::div[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anmärkning*1'])[1]/following::div[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Åtgärd rekommenderas'])[1]/preceding::div[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pågende skada. Ersätts inte*2'])[1]/preceding::div[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
-      <value>//app-dropdown/div/div/div[4]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anmärkning*1'])[1]/following::div[1]</value>
+      <value>//app-dropdown/div/div/div[5]</value>
    </webElementXpaths>
 </WebElementEntity>

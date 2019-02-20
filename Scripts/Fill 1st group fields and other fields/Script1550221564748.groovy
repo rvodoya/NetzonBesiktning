@@ -19,22 +19,22 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://staging.besiktningsprotokoll.netzon.se/#/checklist')
 
-WebUI.setText(findTestObject('Object Repository/Page_Skadefrebyggande besiktningspr/input_Namn_ng-untouched ng-val (1) (1) (1) (1) (1) (1)'), 
+WebUI.setText(findTestObject('Page_Skadefrebyggande besiktningspr/input_Namn_ng-untouched ng-val (1) (1) (1) (1) (1) (1) (1)'), 
     'John Tra')
 
 WebUI.setText(findTestObject('Besikning/Postut Textbox'), 'Volt a ')
 
 WebUI.setText(findTestObject('Besikning/Postadress textbox'), '131')
 
-WebUI.click(findTestObject('Object Repository/Page_Skadefrebyggande besiktningspr/i_keyboard_arrow_down (2) (1) (1) (1) (1)'))
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/i_keyboard_arrow_down (2) (1) (1) (1) (1) (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Skadefrebyggande besiktningspr/span_Pontus Asp (1) (1) (1) (1) (1)'))
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/span_Pontus Asp (1) (1) (1) (1) (1) (1)'))
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('Besikning/Besik Arrow down'))
 
-WebUI.click(findTestObject('Object Repository/Page_Skadefrebyggande besiktningspr/div_16 (1) (1) (1) (1) (1)'))
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_16 (1) (1) (1) (1) (1) (1)'))
 
 WebUI.setText(findTestObject('Besikning/Bygg textbox'), 'Lorem ipsum dolor sit amet')
 
@@ -50,7 +50,7 @@ WebUI.setText(findTestObject('Besikning/E-post textbox'), 'carina.aman@dodgit.co
 
 WebUI.click(findTestObject('Besikning/Beg Datum textbox'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Skadefrebyggande besiktningspr/div_16 (1) (1) (1) (1) (1)'))
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_16 (1) (1) (1) (1) (1) (1)'))
 
 WebUI.click(findTestObject('Besikning/Nasta Button'))
 
@@ -58,7 +58,7 @@ WebUI.click(findTestObject('Kok/Diskmaskin arrow down'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Skadefrebyggande besiktningspr/div_Okulrt besiktigat (1) (1) (1)'))
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Okulrt besiktigat (1) (1) (1) (1)'))
 
 WebUI.delay(1)
 
@@ -66,7 +66,7 @@ WebUI.click(findTestObject('Kok/KylAndFrys'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Skadefrebyggande besiktningspr/div_Anmrkning1 (1) (1) (1)'))
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Anmrkning1 (1) (1) (1) (1)'))
 
 WebUI.delay(1)
 
@@ -74,7 +74,7 @@ WebUI.click(findTestObject('Kok/Rorledningar arrowdown'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Skadefrebyggande besiktningspr/div_tgrd rekommenderas (1) (1)'))
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_tgrd rekommenderas (1) (1) (1)'))
 
 WebUI.delay(1)
 
@@ -82,16 +82,97 @@ WebUI.click(findTestObject('Kok/Vatensakrat'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Skadefrebyggande besiktningspr/div_Pgende skada. Erstts inte2 (1) (1)'))
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Pgende skada. Erstts inte2 (1) (1) (1)'))
 
 WebUI.setText(findTestObject('Kok/Anteckinar textbox'), 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.')
 
-WebUI.uploadFile(findTestObject('Object Repository/Page_Skadefrebyggande besiktningspr/input_Ladda upp bild_file (1)'), 
-    'C:\\Users\\netzon.rhobert\\git\\NetzonLansfor\\Data Files\\busan.jpg')
+WebUI.uploadFile(findTestObject('Page_Skadefrebyggande besiktningspr/input_Ladda upp bild_file (1) (1)'), 'C:\\Users\\netzon.rhobert\\git\\NetzonLansfor\\Data Files\\busan.jpg')
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Skadefrebyggande besiktningspr/div_Vtrum 1'))
+WebUI.click(findTestObject('Kok/Nasta button2'))
 
-WebUI.click(findTestObject('Vatrum1/tatskikt'))
+WebUI.click(findTestObject('Vatrum1/Tatskikt golv'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Anmrkning1 (3)'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Vatrum1/Tatskikt Valg'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Ingen anmrkning'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Vatrum1/Golvbrunn'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Pgende skada. Erstts inte2 (2)'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Vatrum1/Rorledningar'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Anmrkning1 (3)'))
+
+WebUI.setText(findTestObject('Vatrum1/Anteckningar textbox'), 'Lorem ipsum dolor sit amet')
+
+WebUI.uploadFile(findTestObject('Vatrum1/LaddaUpBuild'), 'C:\\Users\\netzon.rhobert\\git\\NetzonLansfor\\Data Files\\rialto.jpg')
+
+WebUI.click(findTestObject('Vatrum1/NastaBut'))
+
+WebUI.click(findTestObject('Vatrum2/Tatkikt golv'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Anmrkning1'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Vatrum2/Tatskikt Valg'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Okulrt besiktigat'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Vatrum2/Golvbrunn'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Pgende skada. Erstts inte2'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Vatrum2/Rorledningar'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Anmrkning1'))
+
+WebUI.setText(findTestObject('Vatrum2/Anteckningar textbox'), 'Lorem ipsum dolor sit amet')
+
+WebUI.uploadFile(findTestObject('Vatrum2/LaddaUpBuild'), 'C:\\Users\\netzon.rhobert\\git\\NetzonLansfor\\Data Files\\ayutthaya.jpg')
+
+WebUI.click(findTestObject('Vatrum2/NastaBut'))
+
+WebUI.click(findTestObject('Tvattstuga/Tatkikt golv'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Okulrt besiktigat'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Tvattstuga/Tatskikt Valg'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Anmrkning1'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Tvattstuga/Golvbrunn'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Ingen anmrkning'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Tvattstuga/Rorledningar'))
+
+WebUI.click(findTestObject('Page_Skadefrebyggande besiktningspr/div_Okulrt besiktigat'))
+
+WebUI.setText(findTestObject('Tvattstuga/Anteckningar textbox'), 'Lorem ipsum dolor sit amet')
+
+WebUI.uploadFile(findTestObject('Tvattstuga/LaddaUpBuild'), 'C:\\Users\\netzon.rhobert\\git\\NetzonLansfor\\Data Files\\petra.jpg')
+
+WebUI.click(findTestObject('Tvattstuga/NastaBut'))
 

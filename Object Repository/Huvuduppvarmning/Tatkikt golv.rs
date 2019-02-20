@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Nasta button2</name>
+   <name>Tatkikt golv</name>
    <tag></tag>
-   <elementGuidId>054ad90d-344d-46a3-8745-2a7ab2410d8e</elementGuidId>
+   <elementGuidId>b5e717f9-01ba-428d-85a4-22d15d1996aa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//app-kitchen/div/div[3]/div/div[2]/button[contains(@class,'button-next')]</value>
+         <value>//app-utility-room2/div/div[2]/div/div[contains(@class,'detail-wrapper')]/div[1]/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

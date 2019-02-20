@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Nasta button2</name>
+   <name>LaddaUpBuild</name>
    <tag></tag>
-   <elementGuidId>054ad90d-344d-46a3-8745-2a7ab2410d8e</elementGuidId>
+   <elementGuidId>211fadc6-0f57-4f21-9fb5-71e81037b885</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//app-kitchen/div/div[3]/div/div[2]/button[contains(@class,'button-next')]</value>
+         <value>//app-utility-room1/div/div[2]/div/div[contains(@class,'detail-wrapper')]/div[7]/div/div/div/div[2]/div/input
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
