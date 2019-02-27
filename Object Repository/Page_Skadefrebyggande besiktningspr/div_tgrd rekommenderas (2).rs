@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_tgrd rekommenderas</name>
+   <name>div_tgrd rekommenderas (2)</name>
    <tag></tag>
-   <elementGuidId>73eadd0a-d6bf-4a7d-89ce-ab36a820da4a</elementGuidId>
+   <elementGuidId>0e96080a-b749-483f-9755-088c7069676f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

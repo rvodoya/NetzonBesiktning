@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textarea_Anteckningar_ng-tns-c</name>
+   <name>i_keyboard_arrow_down (2) (1) (1) (1) (1) (1) (1) (1)</name>
    <tag></tag>
-   <elementGuidId>f4031a80-ac3b-4882-8bfd-e0b2343f6113</elementGuidId>
+   <elementGuidId>35fe6511-14be-48d1-9340-3c18246d6c9b</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,94 +11,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>textarea</value>
+      <value>i</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-tns-c13-10 ng-valid ng-touched ng-dirty</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rows</name>
-      <type>Main</type>
-      <value>5</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ng-reflect-model</name>
-      <type>Main</type>
-      <value>L</value>
+      <value>material-icons</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                keyboard_arrow_down
+            </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[@class=&quot;ng-tns-c0-0&quot;]/div[@class=&quot;body-container&quot;]/app-checklist[@class=&quot;ng-tns-c5-2 ng-star-inserted&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;list-pages-container&quot;]/div[@class=&quot;list-page-wrapper&quot;]/app-security[@class=&quot;ng-tns-c5-2 ng-tns-c13-10&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;info-wrapper&quot;]/div[1]/div[@class=&quot;detail-wrapper&quot;]/div[@class=&quot;other-notes&quot;]/div[@class=&quot;other-notes-input&quot;]/textarea[@class=&quot;ng-tns-c13-10 ng-valid ng-touched ng-dirty&quot;]</value>
+      <value>/html[1]/body[1]/app-root[@class=&quot;ng-tns-c0-0&quot;]/div[@class=&quot;body-container&quot;]/app-checklist[@class=&quot;ng-tns-c5-2 ng-star-inserted&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;list-pages-container&quot;]/div[@class=&quot;list-page-wrapper&quot;]/app-personal-info[@class=&quot;ng-tns-c5-2 ng-tns-c6-3&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;info-wrapper&quot;]/div[1]/div[@class=&quot;detail-wrapper&quot;]/div[@class=&quot;item-wrapper&quot;]/div[@class=&quot;item-value&quot;]/app-select[@class=&quot;flex ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;main-container clickable&quot;]/div[@class=&quot;main-wrapper flex-cross-center no-border&quot;]/div[@class=&quot;icon-wrapper flex-center&quot;]/i[@class=&quot;material-icons&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anteckningar'])[7]/following::textarea[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--- Välj ---'])[1]/following::i[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[31]/following::textarea[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Besiktningsman*'])[1]/following::i[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ladda upp bild'])[13]/preceding::textarea[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Besiktning utförd'])[1]/preceding::i[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='image'])[7]/preceding::textarea[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[2]/preceding::i[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
-      <value>//div[7]/div[2]/textarea</value>
+      <value>//div[2]/i</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anteckningar'])[1]/following::textarea[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Besiktning utförd'])[1]/following::i[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[7]/following::textarea[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[1]/following::i[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ladda upp bild'])[1]/preceding::textarea[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Byggnadsår*'])[1]/preceding::i[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='image'])[1]/preceding::textarea[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Försäkringsnummer*'])[1]/preceding::i[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
-      <value>//textarea</value>
+      <value>//app-datepicker/div/div/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jonas Eldh'])[1]/following::i[1]</value>
    </webElementXpaths>
 </WebElementEntity>

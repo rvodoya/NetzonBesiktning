@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_radio_button_unchecked</name>
+   <name>div_radio_button_unchecked    _1</name>
    <tag></tag>
-   <elementGuidId>6652232d-40de-41b1-b702-adc51833be69</elementGuidId>
+   <elementGuidId>192279b9-5fcf-4c1e-95d9-282bf1814178</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -32,7 +32,7 @@
                             
                             
                             
-                                Övrigt
+                                Tvättstuga
                             
                             
                                 keyboard_arrow_right
@@ -50,24 +50,6 @@
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_right'])[6]/following::div[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Huvuduppvärmning'])[1]/following::div[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <value>//div[7]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_right'])[4]/following::div[1]</value>
    </webElementXpaths>
    <webElementXpaths>
@@ -81,23 +63,5 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <value>//div[5]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_right'])[3]/following::div[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Våtrum 1'])[1]/following::div[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <value>//div[4]</value>
    </webElementXpaths>
 </WebElementEntity>

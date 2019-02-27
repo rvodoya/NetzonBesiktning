@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LaddaUpBuild</name>
+   <tag></tag>
+   <elementGuidId>72804ad7-5298-4511-ade6-5eedcc2a95ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-heat/div/div[2]/div/div[contains(@class,'detail-wrapper')]/div[6]/div/div/div/div[2]/div/input
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

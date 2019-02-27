@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LaddaUpBuild</name>
+   <tag></tag>
+   <elementGuidId>a977331b-4994-40d8-8013-af9c8ade631e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-fireplace/div/div[2]/div/div[contains(@class,'detail-wrapper')]/div[6]/div/div/div/div[2]/div/input
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

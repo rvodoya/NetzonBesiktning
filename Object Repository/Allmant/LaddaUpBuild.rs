@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LaddaUpBuild</name>
+   <tag></tag>
+   <elementGuidId>fa43b030-1e3e-49b0-97a0-cdeaab4db0b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-firesafety/div/div[2]/div/div[contains(@class,'detail-wrapper')]/div[5]/div/div/div/div[2]/div/input
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
